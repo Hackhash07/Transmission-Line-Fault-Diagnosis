@@ -1,0 +1,8 @@
+true\pred,healthy_matched,wrong_load,open_circuit,short_circuit,series_L,shunt_C,uncertain
+healthy_matched,60,0,0,0,0,0,0
+wrong_load,0,59,0,0,0,1,0
+open_circuit,0,0,60,0,0,0,0
+short_circuit,0,0,0,60,0,0,0
+series_L,0,0,0,0,60,0,0
+shunt_C,0,0,0,14,2,44,0
+uncertain,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+label,precision,recall,f1,support
+healthy_matched,1.0,1.0,1.0,60
+wrong_load,1.0,0.9833,0.9916,60
+open_circuit,1.0,1.0,1.0,60
+short_circuit,0.8108,1.0,0.8955,60
+series_L,0.9677,1.0,0.9836,60
+shunt_C,0.9778,0.7333,0.8381,60
+uncertain,0.0,0.0,0.0,0
+OVERALL_ACCURACY,,,,0.9528
